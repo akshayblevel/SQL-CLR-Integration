@@ -1,0 +1,5 @@
+C:\Users\Akshay\Desktop\RND\SqlEncryptor\SqlEncryptor\bin\Debug\SqlEncryptor.dll
+C:\Users\Akshay\Desktop\RND\SqlEncryptor\SqlEncryptor\bin\Debug\SqlEncryptor.pdb
+C:\Users\Akshay\Desktop\RND\SqlEncryptor\SqlEncryptor\obj\Debug\SqlEncryptor.csprojResolveAssemblyReference.cache
+C:\Users\Akshay\Desktop\RND\SqlEncryptor\SqlEncryptor\obj\Debug\SqlEncryptor.dll
+C:\Users\Akshay\Desktop\RND\SqlEncryptor\SqlEncryptor\obj\Debug\SqlEncryptor.pdb
